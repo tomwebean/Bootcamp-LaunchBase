@@ -11,7 +11,7 @@
   </a> 
 </p>   
 
-## Nota:
+## 📝 Nota:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
 ## Tecnologias: 

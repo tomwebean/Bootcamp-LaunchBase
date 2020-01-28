@@ -11,7 +11,7 @@
   </a> 
 </p>   
 
-## Observação:
+## Note:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
 ## Features 
@@ -20,21 +20,12 @@ As mais recentes ferramentas utilizadas no LaunchBase
 
 - :u6708: **Javascript**
 
-## Getting started 
-Describe here the way to use/install your project   
-
-## License 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details. 
-
-## Este repositório tem por objetivo armazenar as informações dos módulos para facilitar o processo de aprendizagem. 
-No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
-
-- [Bootcamp LaunchBase](https://rocketseat.com.br/) : **Rocketseat**
-- [Linkedin](https://www.linkedin.com/in/jorgestjr/): **Autor: Jorge Sérgio Teixeira**
-
 ## Módulo 1:
 - Introdução a programação WEB
 - Iniciando no Front-end
 - Construindo o Foodfy
 - Iniciando no Back-end
 - Refatorando Foodfy
+
+## License 
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.

@@ -11,10 +11,10 @@
   </a> 
 </p>   
 
-## Note:
+## Nota:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
-## Features 
+## Tecnologias: 
 [//]: # (Add the features of your project here:) 
 As mais recentes ferramentas utilizadas no LaunchBase 
 
@@ -22,12 +22,12 @@ As mais recentes ferramentas utilizadas no LaunchBase
 - :u7533: **HTML5**
 - :u6709: **CSS**
 
-## Module 01:
+## Módulo 01:
 - Introdução a programação WEB
 - Iniciando no Front-end
 - Construindo o Foodfy
 - Iniciando no Back-end
 - Refatorando Foodfy
 
-##  📝 License 
+##  📝 Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.

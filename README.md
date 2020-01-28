@@ -20,6 +20,7 @@ As mais recentes ferramentas utilizadas no LaunchBase
 
 - :u6708: **Javascript**
 - :u7533: **HTML5**
+- :u6709: **CSS**
 
 ## Module 01:
 - Introdução a programação WEB

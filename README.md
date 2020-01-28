@@ -11,6 +11,9 @@
   </a> 
 </p>   
 
+## Observação:
+No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
+
 ## Features 
 [//]: # (Add the features of your project here:) 
 This app features all the latest tools and practices in mobile development!   

@@ -29,5 +29,5 @@ As mais recentes ferramentas utilizadas no LaunchBase
 - Iniciando no Back-end
 - Refatorando Foodfy
 
-## License 
+##  📝 License 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.

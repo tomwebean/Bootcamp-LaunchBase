@@ -20,7 +20,7 @@ As mais recentes ferramentas utilizadas no LaunchBase
 
 - :u6708: **Javascript**
 
-## Módulo 1:
+## Module 01:
 - Introdução a programação WEB
 - Iniciando no Front-end
 - Construindo o Foodfy

@@ -16,9 +16,9 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 
 ## Features 
 [//]: # (Add the features of your project here:) 
-This app features all the latest tools and practices in mobile development!   
+As mais recentes ferramentas utilizadas no LaunchBase 
 
-- :u6708: **Javascript** — A JavaScript library for building user interfaces 
+- :u6708: **Javascript**
 
 ## Getting started 
 Describe here the way to use/install your project   

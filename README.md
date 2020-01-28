@@ -19,6 +19,7 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 As mais recentes ferramentas utilizadas no LaunchBase 
 
 - :u6708: **Javascript**
+- :u7533: **HTML5**
 
 ## Module 01:
 - Introdução a programação WEB

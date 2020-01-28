@@ -3,7 +3,7 @@
   </p>
 <br> 
 
-<p align="center">A little description about your project</p> 
+<p align="center">Este repositório tem por objetivo armazenar as informações dos módulos para facilitar o processo de aprendizagem.</p> 
 
 <p align="center"> 
   <a href="https://opensource.org/licenses/MIT"> 

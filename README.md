@@ -14,7 +14,7 @@
 ## 📝 Nota:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
-## Tecnologias: 
+## :floppy_disk: Tecnologias: 
 [//]: # (Add the features of your project here:) 
 As mais recentes ferramentas utilizadas no LaunchBase 
 

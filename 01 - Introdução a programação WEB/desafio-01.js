@@ -3,3 +3,4 @@
 // CALCULO DE IMC
 
 const nome = 'Tom'
+const peso = 100

@@ -5,3 +5,5 @@
 const nome = 'Tom'
 const peso = 100
 const altura = 1.75
+
+const imc

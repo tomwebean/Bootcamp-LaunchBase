@@ -8,4 +8,4 @@ const altura = 1.75
 
 const imc = peso / (altura * altura )
 
-if ( )
+if ( imc )

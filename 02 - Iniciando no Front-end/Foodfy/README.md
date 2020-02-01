@@ -2,9 +2,9 @@
     <img alt="Launchbase" src="home.png" width="650px" />
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   Construção do site Foodfy
-</h3>
+</h2>
 
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 

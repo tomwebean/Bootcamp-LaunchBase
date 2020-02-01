@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Construção do site Foddfy
+  Construção do site Foodfy
 </h3>
 
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>

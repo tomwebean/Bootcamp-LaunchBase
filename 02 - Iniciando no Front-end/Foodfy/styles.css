@@ -148,3 +148,17 @@ footer {
   color: #777777;
   text-align: center;
 }
+
+.modal-content .card a {
+  font-size: 16px;
+  color: #999999;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-top: 60px;
+}
+
+.modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}

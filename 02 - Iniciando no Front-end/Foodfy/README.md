@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="home.png" width="450px" />
+    <img alt="Launchbase" src="home.png" width="650px" />
 </h1>
 
 <h3 align="center">

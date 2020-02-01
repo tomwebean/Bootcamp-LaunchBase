@@ -14,7 +14,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
 </p>
 
-## 🗄 Tecnologias
+## :floppy_disk: Tecnologias
 
 - :u6708: **Javascript**
 - :u7533: **HTML5**

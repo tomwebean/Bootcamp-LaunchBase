@@ -9,5 +9,5 @@ const altura = 1.75
 const imc = peso / (altura * altura )
 
 if ( imc >= 30 ) {
-  console.log
+  console.log(nome + )
 }

@@ -21,3 +21,5 @@ const nome = 'Wellington'
 const sexo = 'M'
 const idade = 60
 const contribuicao = 35
+
+const contribuicaoMin = idade + contribuicao

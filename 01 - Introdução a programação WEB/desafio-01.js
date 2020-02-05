@@ -28,3 +28,4 @@ if (sexo === 'M' && contribuicaoMin >= 95 || sexo === 'M' && contribuicao >= 35)
   if (!(sexo === 'F') && contribuicaoMin >= 85 || contribuicao >= 30) {
     console.log(nome + ', pode se aposentar!')
   }
+} else {

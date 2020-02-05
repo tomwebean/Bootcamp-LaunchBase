@@ -13,3 +13,11 @@ if ( imc >= 30 ) {
 } else if ( imc < 29.9 )  {
   console.log(nome + ' você não está acima do peso')
 }
+
+
+// CÁLCULO DE APOSENTADORIA
+
+const nome = 'Wellington'
+const sexo = 'M'
+const idade = 60
+const contribuicao = 35

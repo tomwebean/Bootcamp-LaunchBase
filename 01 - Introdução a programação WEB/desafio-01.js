@@ -29,3 +29,5 @@ if (sexo === 'M' && contribuicaoMin >= 95 || sexo === 'M' && contribuicao >= 35)
     console.log(nome + ', pode se aposentar!')
   }
 } else {
+  console.log(nome + ', ainda não pode se aposentar')
+}

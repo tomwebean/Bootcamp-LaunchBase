@@ -23,3 +23,8 @@ const idade = 60
 const contribuicao = 35
 
 const contribuicaoMin = idade + contribuicao
+
+if (sexo === 'M' && contribuicaoMin >= 95 || sexo === 'M' && contribuicao >= 35) {
+  if (!(sexo === 'F') && contribuicaoMin >= 85 || contribuicao >= 30) {
+    console.log(nome + ', pode se aposentar!')
+  }

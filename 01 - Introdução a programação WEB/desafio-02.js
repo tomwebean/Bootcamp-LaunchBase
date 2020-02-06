@@ -2,3 +2,5 @@
 
 // criar um objeto que armazene os dados da Rocketseat
 // imprima em tela a mensagem: A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260
+
+// CONSTRUÇÃO E IMPRESSÃO DE OBJETOS

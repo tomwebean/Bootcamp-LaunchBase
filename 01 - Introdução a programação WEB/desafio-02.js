@@ -7,3 +7,4 @@
 
 const bootcamp = {
   nome: 'Rocketseat',
+  cor: 'Roxo',

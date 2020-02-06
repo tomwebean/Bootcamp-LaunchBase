@@ -6,3 +6,4 @@
 // CONSTRUÇÃO E IMPRESSÃO DE OBJETOS
 
 const bootcamp = {
+  nome: 'Rocketseat',

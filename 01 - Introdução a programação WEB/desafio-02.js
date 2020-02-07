@@ -20,3 +20,4 @@ console.log(`A empresa ${bootcamp.nome} está localizada em ${bootcamp.endereço
 
 
 // criar um array de um programa com nome, idade e tecnologias (podem ser várias)
+// VETORES E OBJETOS

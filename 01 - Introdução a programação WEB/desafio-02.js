@@ -23,3 +23,4 @@ console.log(`A empresa ${bootcamp.nome} está localizada em ${bootcamp.endereço
 // VETORES E OBJETOS
 const programador = {
   nome: 'Jorge',
+  idade: 25,

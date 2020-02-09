@@ -25,3 +25,5 @@ const programador = {
   nome: 'Jorge',
   idade: 25,
 }
+
+const tecnologia = [{

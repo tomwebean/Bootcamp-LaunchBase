@@ -27,3 +27,4 @@ const programador = {
 }
 
 const tecnologia = [{
+  nome: 'JavaScript',

@@ -28,3 +28,5 @@ const programador = {
 
 const tecnologia = [{
   nome: 'JavaScript',
+  especialidade: 'Web/Mobile'
+},

@@ -39,3 +39,5 @@ especialidade: 'Web'
   especialidade: 'Desktop'
 },
 ]
+
+console.log(`O programador ${programador.nome} tem ${programador.idade} anos e usa a tecnologia ${tecnologia[0].nome} com especialidade em ${tecnologia[0].especialidade}`)

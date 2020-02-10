@@ -30,7 +30,12 @@ const tecnologia = [{
   nome: 'JavaScript',
   especialidade: 'Web/Mobile'
 },
+{
 nome: 'CSS',
 especialidade: 'Web'
 },
 {
+  nome: 'Java',
+  especialidade: 'Desktop'
+},
+]

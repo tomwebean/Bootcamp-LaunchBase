@@ -11,3 +11,5 @@ const usuarios = [{
   nome: 'Rebeca',
   tecnologias: ['JavaScript', 'CSS']
 },
+{
+  nome: 'Ester',

@@ -7,3 +7,5 @@ const usuarios = [{
   nome: 'Wellington',
   tecnologias: ['HTML', 'CSS']
 },
+{
+  nome: 'Rebeca',

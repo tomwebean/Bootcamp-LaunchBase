@@ -2,3 +2,5 @@
 
 // criar um array que armazena nome e suas tecnologias
 // percorrer a lista de usuários com estrutura de repetição
+
+const usuarios = [{

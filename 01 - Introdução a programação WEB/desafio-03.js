@@ -4,3 +4,4 @@
 // percorrer a lista de usuários com estrutura de repetição
 
 const usuarios = [{
+  nome: 'Wellington',

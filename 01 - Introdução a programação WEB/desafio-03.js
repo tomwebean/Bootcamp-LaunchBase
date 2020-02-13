@@ -5,3 +5,5 @@
 
 const usuarios = [{
   nome: 'Wellington',
+  tecnologias: ['HTML', 'CSS']
+},

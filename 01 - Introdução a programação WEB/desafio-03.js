@@ -32,3 +32,6 @@ function checaSeUsuarioUsaCSS(usuario) {
   }
   return false
 }
+
+for (let i = 0; i < usuarios.length; i++) {
+  const usuarioTrabalhaComCSS = checaSeUsuarioUsaCSS(usuarios[i])

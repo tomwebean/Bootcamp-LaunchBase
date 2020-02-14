@@ -27,3 +27,8 @@ for (let i = 0; i < usuarios.length; i++) {
 function checaSeUsuarioUsaCSS(usuario) {
   for (let tecnologia of usuario.tecnologias) {
     if (tecnologia == 'CSS') {
+      return true
+    }
+  }
+  return false
+}

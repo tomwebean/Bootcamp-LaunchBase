@@ -23,3 +23,7 @@ for (let i = 0; i < usuarios.length; i++) {
 }
 
 // Busca por tecnologia
+
+function checaSeUsuarioUsaCSS(usuario) {
+  for (let tecnologia of usuario.tecnologias) {
+    if (tecnologia == 'CSS') {

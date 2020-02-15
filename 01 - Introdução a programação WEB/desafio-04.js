@@ -7,3 +7,5 @@ const user = {
   transactions: [],
   balance: 0
 }
+
+// Adicionar transações

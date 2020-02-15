@@ -9,3 +9,6 @@ const user = {
 }
 
 // Adicionar transações
+
+function createTransaction(transaction) {
+  user.transactions.push(transaction)

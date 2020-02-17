@@ -43,3 +43,23 @@ function getHigherTransactionByType(type) {
 
   let higherTransaction
   let higherValue = 0
+
+  for (let transaction of user.transactions) {
+    if (type == transaction.type && higherValue < transaction.value) {
+      higherValue = transaction.value
+      higherTransaction = transaction
+    }
+  }
+  return higherTransaction
+}
+
+function getAverageTransactionValue() {
+
+  let sum = 0
+
+  for (let transaction of user.transactions) {
+    sum += transaction.value
+  }
+
+  return sum / user.transactions.length
+}

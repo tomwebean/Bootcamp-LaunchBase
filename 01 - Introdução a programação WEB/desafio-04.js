@@ -33,3 +33,7 @@ createTransaction({
   type: 'debit',
   value: 80
 })
+createTransaction({
+  type: 'debit',
+  value: 30
+})

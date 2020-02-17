@@ -69,3 +69,14 @@ function getTransactionsCount() {
     Credit: 0,
     Debit: 0
   }
+  
+  for (let transaction of user.transactions) {
+    if (transaction.type == 'credit') {
+      count.Credit++
+    } else {
+      count.Debit++
+    }
+  }
+
+  return count
+}

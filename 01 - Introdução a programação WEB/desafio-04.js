@@ -37,3 +37,9 @@ createTransaction({
   type: 'debit',
   value: 30
 })
+
+// Relatórios
+function getHigherTransactionByType(type) {
+
+  let higherTransaction
+  let higherValue = 0

@@ -69,7 +69,7 @@ function getTransactionsCount() {
     Credit: 0,
     Debit: 0
   }
-  
+
   for (let transaction of user.transactions) {
     if (transaction.type == 'credit') {
       count.Credit++
@@ -80,3 +80,12 @@ function getTransactionsCount() {
 
   return count
 }
+
+console.log(user.balance) // 60
+
+console.log(getHigherTransactionByType('credit')) // { type: 'credit', value: 120 }
+console.log(getHigherTransactionByType('debit')) // { type: 'debit', value: 80 }
+
+console.log(getAverageTransactionValue()) // 70
+
+console.log(getTransactionsCount()) // { credit: 2, debit: 2 }

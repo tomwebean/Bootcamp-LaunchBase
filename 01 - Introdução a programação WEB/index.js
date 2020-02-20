@@ -11,3 +11,14 @@ const alunosDaTurmaA = [
     nome: "Fulano",
     nota: 2
   },
+  {
+    nome: "Mais um aluno",
+    nota: 10
+  }
+];
+
+const alunosDaTurmaB = [
+  {
+    nome: "Cleiton",
+    nota: 10
+  },

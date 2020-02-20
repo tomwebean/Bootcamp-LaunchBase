@@ -30,3 +30,8 @@ const alunosDaTurmaB = [
     nome: "Siclano",
     nota: 0
   },
+  {
+    nome: "Novo Aluno",
+    nota: 5
+  }
+];

@@ -22,3 +22,7 @@ const alunosDaTurmaB = [
     nome: "Cleiton",
     nota: 10
   },
+  {
+    nome: "Robson",
+    nota: 10
+  },

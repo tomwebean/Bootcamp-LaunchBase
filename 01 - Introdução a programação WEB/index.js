@@ -35,3 +35,13 @@ const alunosDaTurmaB = [
     nota: 5
   }
 ];
+
+function calculaMedia(alunos) {
+  let soma = 0;
+  for (let i = 0; i < alunos.length; i++) {
+    soma = soma + alunos[i].nota;
+  }
+
+  const media = soma / alunos.length
+  return media
+}

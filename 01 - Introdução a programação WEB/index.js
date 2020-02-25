@@ -48,3 +48,11 @@ function calculaMedia(alunos) {
 
 const media1 = calculaMedia(alunosDaTurmaA);
 const media2 = calculaMedia(alunosDaTurmaB);
+
+function enviaMensagem(media, turma) {
+  if (media > 5) {
+    console.log(`A media da turma ${turma} foi de ${media}. Parabéns`);
+  } else {
+    console.log(`A média da turma ${turma} é menor que 5`);
+  }
+}

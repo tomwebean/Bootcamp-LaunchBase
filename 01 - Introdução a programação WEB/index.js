@@ -45,3 +45,6 @@ function calculaMedia(alunos) {
   const media = soma / alunos.length
   return media
 }
+
+const media1 = calculaMedia(alunosDaTurmaA);
+const media2 = calculaMedia(alunosDaTurmaB);

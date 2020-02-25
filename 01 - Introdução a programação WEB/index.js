@@ -56,3 +56,6 @@ function enviaMensagem(media, turma) {
     console.log(`A média da turma ${turma} é menor que 5`);
   }
 }
+
+enviaMensagem(media1, 'turmaA')
+enviaMensagem(media2, 'turmaB')

@@ -79,3 +79,6 @@ function alunoReprovado(alunos) {
     enviarMensagemReprovadp(aluno)
   }
 }
+
+alunoReprovado(alunosDaTurmaA)
+alunoReprovado(alunosDaTurmaB)

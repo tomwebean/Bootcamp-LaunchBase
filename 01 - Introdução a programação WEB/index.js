@@ -72,3 +72,10 @@ function enviarMensagemReprovadp(aluno) {
     console.log(`o Aluno ${aluno.nome} está reprovado!`)
   }
 }
+
+function alunoReprovado(alunos) {
+  for (let aluno of alunos) {
+    marcarComoReprovado(aluno);
+    enviarMensagemReprovadp(aluno)
+  }
+}

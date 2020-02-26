@@ -66,3 +66,9 @@ function marcarComoReprovado(aluno) {
     aluno.reprovado = true;
   }
 }
+
+function enviarMensagemReprovadp(aluno) {
+  if (aluno.reprovado) {
+    console.log(`o Aluno ${aluno.nome} está reprovado!`)
+  }
+}

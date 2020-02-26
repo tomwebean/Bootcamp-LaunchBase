@@ -59,3 +59,10 @@ function enviaMensagem(media, turma) {
 
 enviaMensagem(media1, 'turmaA')
 enviaMensagem(media2, 'turmaB')
+
+function marcarComoReprovado(aluno) {
+  aluno.reprovado = false;
+  if (aluno.nota < 5) {
+    aluno.reprovado = true;
+  }
+}

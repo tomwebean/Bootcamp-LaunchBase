@@ -17,3 +17,6 @@ const idade = 18
 // se sim, deixar entra, se não, bloquear a entrada
 // se a pessoa tiver 17 anos
 // avisar para voltar quando fizer 18 anos
+
+if (!(idade >= 18) || idade === 17) {
+  console.log('Bloquear a entrada')

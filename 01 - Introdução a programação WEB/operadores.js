@@ -50,3 +50,9 @@ console.log(!(5 > 6))
 
 
 // Operadores aritméticos
+
+//  - (+) (adição)
+//  - (-) (subtração)
+//  - (*) (multiplicação)
+//  - (/) (divisão)
+//  - (%) (o resto de uma divisão, Ex: 5/5 = 1, ou seja, o resto seria **0**)

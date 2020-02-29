@@ -56,3 +56,7 @@ console.log(!(5 > 6))
 //  - (*) (multiplicação)
 //  - (/) (divisão)
 //  - (%) (o resto de uma divisão, Ex: 5/5 = 1, ou seja, o resto seria **0**)
+
+console.log(2 * 2) // 4
+console.log(2 / 2) // 1
+console.log(2 % 1.5) // 0.5

@@ -33,3 +33,6 @@ if (!(idade >= 18) || idade === 17) {
 console.log(5 == 5 && 6 == 6)
 
 console.log(5 == 5 && 6 != 6)
+
+
+//  - || "OU" uma das condições deve ser verdadeira para que a condição final seja verdadeira

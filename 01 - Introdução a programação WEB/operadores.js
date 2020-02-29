@@ -23,3 +23,9 @@ if (!(idade >= 18) || idade === 17) {
 } else {
   console.log('Deixar entrar')
 }
+
+
+
+// Operadores lógicos
+
+//  - && "E" as duas condições devem ser verdadeiras para que a condição final seja verdadeira

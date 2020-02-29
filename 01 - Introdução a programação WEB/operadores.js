@@ -44,3 +44,9 @@ console.log(5 == 5 || 6 != 6)
 //  - ! "NÃO" nega uma condição
 
 console.log(!(5 > 6))
+
+
+
+
+
+// Operadores aritméticos

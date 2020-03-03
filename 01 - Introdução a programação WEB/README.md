@@ -6,3 +6,5 @@
 <br>
 <br>
 <h1 align=center> O que é programação?</h1>
+
+ Ensinar o computador a trabalhar, passar através de algoritimos(códigos) o que ele deve fazer. Fazemos isso através das linguagens de programação, são elas:

@@ -11,3 +11,4 @@
  - Python
  - Java
  - PHP
+ - JavaScript

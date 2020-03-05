@@ -23,3 +23,4 @@
 ## Principais pontos:
  - Linguagem moderna
  - Comunidade ativa e muito forte, grandes empresas utilizam a linguagem (Youtube, Facebook, Airbnb, entre outros)
+<br>

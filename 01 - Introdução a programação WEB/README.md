@@ -19,3 +19,5 @@
 <h1 align=center> Por que JavaScript?</h1>
 
  Uma linguagem que está no topo das paradas, super moderna, fácil de se inscrever e possui uma curva de aprendizado bem interessante.
+
+## Principais pontos:

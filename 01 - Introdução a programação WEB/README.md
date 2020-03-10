@@ -29,3 +29,4 @@
 <h1 align=center> Como programar?</h1>
 
  - Aprender a linguagem
+ - Ter um ambiente de desenvolvimento (VS Code, Chrome, NodeJs, entre outros aplicativos)

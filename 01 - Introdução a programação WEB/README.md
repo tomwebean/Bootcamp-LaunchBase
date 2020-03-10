@@ -27,3 +27,5 @@
 <br>
 
 <h1 align=center> Como programar?</h1>
+
+ - Aprender a linguagem

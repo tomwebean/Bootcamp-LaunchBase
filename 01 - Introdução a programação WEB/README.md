@@ -30,3 +30,4 @@
 
  - Aprender a linguagem
  - Ter um ambiente de desenvolvimento (VS Code, Chrome, NodeJs, entre outros aplicativos)
+ - Codar! (Meter a mão na massa, rsrs)

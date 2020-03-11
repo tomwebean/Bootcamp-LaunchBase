@@ -33,3 +33,5 @@
  - Codar! (Meter a mão na massa, rsrs)
 <br>
 <br>
+
+<h1 align=center> Exemplo de código em JavaScript</h1>

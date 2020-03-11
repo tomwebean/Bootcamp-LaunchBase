@@ -35,3 +35,5 @@
 <br>
 
 <h1 align=center> Exemplo de código em JavaScript</h1>
+
+ const nome = 'Jorge'

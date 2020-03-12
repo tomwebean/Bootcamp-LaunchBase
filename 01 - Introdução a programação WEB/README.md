@@ -36,5 +36,5 @@
 
 <h1 align=center> Exemplo de código em JavaScript</h1>
 
- const nome = 'Jorge'
- const idade = '25'
+ const nome = 'Wellington'
+ const idade = '36'

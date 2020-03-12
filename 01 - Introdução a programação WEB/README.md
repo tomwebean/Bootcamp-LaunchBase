@@ -38,3 +38,5 @@
 
  const nome = 'Wellington'
  const idade = '36'
+
+ if (idade < 99) {

@@ -50,3 +50,5 @@ return 'Fala ${nome}, você está novo para programar.'
 
 
 <h1 align=center> Iniciando com JavaScript</h1>
+
+<p align=justify>Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fica por sua conta, pode escolher. Uma vez criada, devemos fazer os seguintes passos:

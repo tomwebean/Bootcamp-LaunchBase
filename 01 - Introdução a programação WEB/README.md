@@ -54,3 +54,5 @@ return 'Fala ${nome}, você está novo para programar.'
 <p align=justify>Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fica por sua conta, pode escolher. Uma vez criada, devemos fazer os seguintes passos:
 - No VS Code -> File -> Open Folder, iremos então selecionar a pasta criada.
 - Devemos criar um novo arquivo e colocar o nome de index.js (a extensão **.js** é de extrema importância para que o programa reconheça que é um arquivo JavaScript.)
+
+ <p align=justify>Dentro deste arquivo, devemos nos atentar a sintaxe, a sintaxe é a forma de escrita do código, ela deve ser feita de forma correta para que o navegador possa ler essas informações e responder conforme solicitado. Então, segue exemplo de sintaxe:

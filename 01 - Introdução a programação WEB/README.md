@@ -58,3 +58,4 @@ return 'Fala ${nome}, você está novo para programar.'
  <p align=justify>Dentro deste arquivo, devemos nos atentar a sintaxe, a sintaxe é a forma de escrita do código, ela deve ser feita de forma correta para que o navegador possa ler essas informações e responder conforme solicitado. Então, segue exemplo de sintaxe:
 
  - const nome = 'Wellington'
+ > const = constante, é a declaração de uma varíavel, esse valor será levado por todo o sistema, até que seja alterado manualmente.

@@ -56,3 +56,5 @@ return 'Fala ${nome}, você está novo para programar.'
 - Devemos criar um novo arquivo e colocar o nome de index.js (a extensão **.js** é de extrema importância para que o programa reconheça que é um arquivo JavaScript.)
 
  <p align=justify>Dentro deste arquivo, devemos nos atentar a sintaxe, a sintaxe é a forma de escrita do código, ela deve ser feita de forma correta para que o navegador possa ler essas informações e responder conforme solicitado. Então, segue exemplo de sintaxe:
+
+ - const nome = 'Wellington'

@@ -63,3 +63,4 @@ return 'Fala ${nome}, você está novo para programar.'
  Para que seja mostrado alguma informação em nosso terminal, devemos usar a sintaxe:
 
  - console.log (nome)
+ >Essa linha de código irá chamar o que está dentro da varíavel para nosso console, desta forma podemos verificar o que está dentro dela.

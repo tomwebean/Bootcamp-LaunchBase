@@ -61,3 +61,5 @@ return 'Fala ${nome}, você está novo para programar.'
  > const = constante, é a declaração de uma varíavel, esse valor será levado por todo o sistema, até que seja alterado manualmente.
 
  Para que seja mostrado alguma informação em nosso terminal, devemos usar a sintaxe:
+
+ - console.log (nome)

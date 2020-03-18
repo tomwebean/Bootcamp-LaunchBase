@@ -64,3 +64,5 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - console.log (nome)
  >Essa linha de código irá chamar o que está dentro da varíavel para nosso console, desta forma podemos verificar o que está dentro dela.
+
+ Para testarmos, devemos chamar essa linha de código dentro do nosso terminal, utilizando o VS code o atalho para o terminal é **CTRL + SHIFT + '** (Atenção para não abrir vários.)

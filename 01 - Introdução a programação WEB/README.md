@@ -72,3 +72,5 @@ return 'Fala ${nome}, você está novo para programar.'
  Com isso já temos nossa primeira linha de código criada, já podemos afirmar que estamos **codando em JS!** (Uhuuuuu \o/)
  <br>
  <br>
+
+<h1 align=center>Comentários, Strings e Numbers </h1>

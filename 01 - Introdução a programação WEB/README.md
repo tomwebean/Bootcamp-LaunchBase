@@ -70,3 +70,4 @@ return 'Fala ${nome}, você está novo para programar.'
  Dentro do terminal, devemos chamar da seguinte forma: **node index.js**. Com este comando, será apresentado em tela o conteúdo da varíavel.
 
  Com isso já temos nossa primeira linha de código criada, já podemos afirmar que estamos **codando em JS!** (Uhuuuuu \o/)
+ <br>

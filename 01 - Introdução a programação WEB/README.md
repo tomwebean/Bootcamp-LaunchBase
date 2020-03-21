@@ -68,3 +68,5 @@ return 'Fala ${nome}, você está novo para programar.'
  Para testarmos, devemos chamar essa linha de código dentro do nosso terminal, utilizando o VS code o atalho para o terminal é **CTRL + SHIFT + '** (Atenção para não abrir vários.)
 
  Dentro do terminal, devemos chamar da seguinte forma: **node index.js**. Com este comando, será apresentado em tela o conteúdo da varíavel.
+
+ Com isso já temos nossa primeira linha de código criada, já podemos afirmar que estamos **codando em JS!** (Uhuuuuu \o/)

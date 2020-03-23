@@ -83,3 +83,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - // Comentando o código JS
  > Utilizando essas **//**, tudo que vier após entrará como comentário, e como dito, não aparecerá na tela ou no console.
+<br>

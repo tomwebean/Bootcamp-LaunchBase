@@ -76,3 +76,5 @@ return 'Fala ${nome}, você está novo para programar.'
 <h1 align=center>Comentários, Strings e Numbers </h1>
 <br>
 ## Comentários
+
+ <p align=justify>Os comentários no JS ou em qualquer linguagem, serve para que possamos escrever lembretes e comentar linhas de código sem que elas apareçam na tela. (para quem está começando essa é uma boa prática, comentar cada linha para se localizar depois revendo seu código.)

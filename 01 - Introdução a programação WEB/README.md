@@ -90,3 +90,4 @@ return 'Fala ${nome}, você está novo para programar.'
  String é um tipo de varíavel, ela recebe qualquer tipo de valor, texto, numero, etc. Veja exemplos de strings:
 
  - const aluno1 = 'Wellington'
+ - const aluno2 = "Tom"

@@ -91,3 +91,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - const aluno1 = 'Wellington'
  - const aluno2 = "Tom"
+ - const aluno3 = `Rebeca`

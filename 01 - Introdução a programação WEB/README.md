@@ -86,3 +86,5 @@ return 'Fala ${nome}, você está novo para programar.'
 <br>
 
 ## String
+
+ String é um tipo de varíavel, ela recebe qualquer tipo de valor, texto, numero, etc. Veja exemplos de strings:

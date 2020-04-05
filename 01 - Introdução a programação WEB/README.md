@@ -92,3 +92,5 @@ return 'Fala ${nome}, você está novo para programar.'
  - const aluno1 = 'Wellington'
  - const aluno2 = "Tom"
  - const aluno3 = `Rebeca`
+
+ Podemos utilizar essas três formas, as duas primeiras são **aspas simples ou dupla**, não há diferença, entretanto, devemos nos atentar na ultima const.

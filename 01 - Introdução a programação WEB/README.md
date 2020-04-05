@@ -94,3 +94,5 @@ return 'Fala ${nome}, você está novo para programar.'
  - const aluno3 = `Rebeca`
 
  Podemos utilizar essas três formas, as duas primeiras são **aspas simples ou dupla**, não há diferença, entretanto, devemos nos atentar na ultima const.
+
+ A const aluno3 está com a **Template string**, com ela podemos acrescentar outra varíavel dentro dela mesma, como por exemplo:

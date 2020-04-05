@@ -99,3 +99,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - const aluno3 = `Wellington e ${aluno1}`
  > console.log(aluno3)
+ > Resultado: Wellington e Rebeca

@@ -100,3 +100,5 @@ return 'Fala ${nome}, você está novo para programar.'
  - const aluno3 = `Rebeca e ${aluno1}`
  > console.log(aluno3)
  > Resultado: Rebeca e Wellington
+
+ Perceba que, apenas utilizando a crase **``** é possível fazer isso, com as aspas não conseguimos, o resultado será:

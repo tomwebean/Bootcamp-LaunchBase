@@ -102,3 +102,5 @@ return 'Fala ${nome}, você está novo para programar.'
  > Resultado: Rebeca e Wellington
 
  Perceba que, apenas utilizando a crase **``** é possível fazer isso, com as aspas não conseguimos, o resultado será:
+
+ - const aluno1 = 'Wellington e ${aluno2}'

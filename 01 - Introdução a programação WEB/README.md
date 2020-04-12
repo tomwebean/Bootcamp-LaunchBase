@@ -105,3 +105,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - const aluno1 = 'Wellington e ${aluno2}'
  > console.log (aluno1)
+ > Resultado: Wellington e &{aluno2}

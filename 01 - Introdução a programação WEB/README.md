@@ -114,3 +114,4 @@ return 'Fala ${nome}, você está novo para programar.'
 <p align=justify> Number também é um tipo de varíavel, porém ela recebe apenas valores numéricos, sejam eles *Inteiros (Int), ou Decimais(Float). Para declará-los, é bem simples, devemos fazer o seguinte:
 
  - const notaAluno1 = 9.8
+ - const notaAluno2 = 10

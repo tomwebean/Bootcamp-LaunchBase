@@ -117,3 +117,6 @@ return 'Fala ${nome}, você está novo para programar.'
  - const notaAluno2 = 10
 
 <p align=justify> Desta forma teremos declarado dois tipo de numbers, tanto inteiro (10), quanto float (9.8)
+
+
+ Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:

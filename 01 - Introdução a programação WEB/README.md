@@ -120,3 +120,5 @@ return 'Fala ${nome}, você está novo para programar.'
 
 
  Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:
+
+ - console.log(typeof notaAluno1)

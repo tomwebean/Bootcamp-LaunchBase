@@ -125,3 +125,4 @@ return 'Fala ${nome}, você está novo para programar.'
  > Resultado: number
 
  - console.log(typeof aluno1)
+ > Resultado: string

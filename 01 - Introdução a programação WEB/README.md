@@ -115,3 +115,5 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - const notaAluno1 = 9.8
  - const notaAluno2 = 10
+
+<p align=justify> Desta forma teremos declarado dois tipo de numbers, tanto inteiro (10), quanto float (9.8)

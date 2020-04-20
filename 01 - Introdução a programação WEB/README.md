@@ -135,3 +135,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - const media = (notaAluno1 + notaAluno2 + notaAluno3) / 3
  - console.log(media)
+ > Resultado: 7.266

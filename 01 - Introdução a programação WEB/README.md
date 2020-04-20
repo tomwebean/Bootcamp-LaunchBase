@@ -134,3 +134,4 @@ return 'Fala ${nome}, você está novo para programar.'
  <p align=justify>Para realizarmos cálculos no JS é bem simples, devemos seguir a lógica matemática, pura e simples, sem mistério. Como podemos fazer isso? Da seguinte forma:
 
  - const media = (notaAluno1 + notaAluno2 + notaAluno3) / 3
+ - console.log(media)

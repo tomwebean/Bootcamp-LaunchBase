@@ -144,3 +144,5 @@ return 'Fala ${nome}, você está novo para programar.'
 <h1 align=center> Condicionais</h1>
 
  Estruturas condicionais servem para podermos tomar decisões dentro do código, isso mesmo, elas vão nos dar condições. Vamos trazer isso para a prática. 
+
+ Imagine você preparando seu almoço, vai fritar um bife(suculento), então, a condição é a seguinte: 

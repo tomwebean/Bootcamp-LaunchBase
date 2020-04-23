@@ -138,3 +138,5 @@ return 'Fala ${nome}, você está novo para programar.'
  > Resultado: 7.266
 
  Então, realizamos primeiro a soma (na1 + na2 + na3) e após dividimos pelo numero de alunos (/3), com isso conseguimos obter a média.
+
+<br>

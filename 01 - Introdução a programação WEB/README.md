@@ -148,3 +148,4 @@ return 'Fala ${nome}, você está novo para programar.'
  Imagine você preparando seu almoço, vai fritar um bife(suculento), então, a condição é a seguinte: 
 
  - Se a frigideira estiver quente, coloque o bife
+ - Se não, espere esfriar para poder colocar o bife

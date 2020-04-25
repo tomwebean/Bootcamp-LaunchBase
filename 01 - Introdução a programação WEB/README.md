@@ -149,3 +149,5 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - Se a frigideira estiver quente, coloque o bife
  - Se não, espere esfriar para poder colocar o bife
+
+ Pronto, temos uma estrutura condicional, fácil não é? Não, não é, mas vai ficar, rsrs.

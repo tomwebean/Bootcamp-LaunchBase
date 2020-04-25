@@ -146,3 +146,5 @@ return 'Fala ${nome}, você está novo para programar.'
  Estruturas condicionais servem para podermos tomar decisões dentro do código, isso mesmo, elas vão nos dar condições. Vamos trazer isso para a prática. 
 
  Imagine você preparando seu almoço, vai fritar um bife(suculento), então, a condição é a seguinte: 
+
+ - Se a frigideira estiver quente, coloque o bife

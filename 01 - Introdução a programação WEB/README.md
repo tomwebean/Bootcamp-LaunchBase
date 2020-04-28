@@ -158,3 +158,4 @@ return 'Fala ${nome}, você está novo para programar.'
 	console.log(`A nota foi de ${media}. Parabéns!`)
  } else {
 	console.log('A média é menor que 5')
+ }

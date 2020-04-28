@@ -153,3 +153,5 @@ return 'Fala ${nome}, você está novo para programar.'
  Pronto, temos uma estrutura condicional, fácil não é? Não, não é, mas vai ficar, rsrs.
 
  Com comida foi, mas vamos testar isso na sintaxe correta? Então ficaria +- assim:
+
+ - if (media > 5) {

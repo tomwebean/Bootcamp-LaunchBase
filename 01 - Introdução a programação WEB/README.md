@@ -155,3 +155,4 @@ return 'Fala ${nome}, você está novo para programar.'
  Com comida foi, mas vamos testar isso na sintaxe correta? Então ficaria +- assim:
 
  - if (media > 5) {
+	console.log(`A nota foi de ${media}. Parabéns!`)

@@ -156,3 +156,4 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - if (media > 5) {
 	console.log(`A nota foi de ${media}. Parabéns!`)
+ } else {

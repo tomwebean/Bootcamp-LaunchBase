@@ -159,3 +159,5 @@ return 'Fala ${nome}, você está novo para programar.'
  } else {
 	console.log('A média é menor que 5')
  }
+
+ > Resultado: A nota foi de 7.266. Parabéns!
